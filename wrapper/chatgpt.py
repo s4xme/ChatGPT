@@ -1,13 +1,12 @@
-from wrapper      import Log, Run, Utils, Headers, Challenges, Parser, VM, IP_Info
-from curl_cffi    import requests
-from typing       import Optional, Any, Type
+from wrapper      import Log, Utils, Headers, Challenges, VM, IP_Info
 from random       import randint, random, choice
-from datetime     import datetime, timezone, timedelta
-from time         import time
+from zoneinfo     import ZoneInfo
+from curl_cffi    import requests
+from datetime     import datetime
 from uuid         import uuid4
 from json         import loads
-from zoneinfo     import ZoneInfo
-from urllib.parse import urlparse
+from time         import time
+from typing       import Any
 
 
 class ChatGPT:
