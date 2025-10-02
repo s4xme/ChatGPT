@@ -242,4 +242,4 @@ Proxy format: `http://username:password@host:port`
 
 ## Disclaimer
 
-This project is for educational purposes only. If OpenAI has an Issue with this Project please contact me via my email nuhuh3116@gmail.com.
+This project is for educational purposes only. If OpenAI has an Issue with this Project please contact me on discord : s4xme
